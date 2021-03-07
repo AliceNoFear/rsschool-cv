@@ -1,0 +1,27 @@
+# 1.Александр Кондратьев
+
+2.Контакты для связи:
+  * E-mail: oniblaed@gmail.com
+  * Discord: gdePult#8277
+
+
+3.Дикое стремление учиться и узнавать новое
+
+4.Html,css,js,react - basic
+
+
+5. Пример кода:
+```
+const func = (num) => {  
+  if (num > 0) {  
+    return num - 1;  
+  }
+  return num + 1;  
+};  
+```
+6. -
+
+7.Бакалавр .
+
+
+8.A2+
