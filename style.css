@@ -1,0 +1,35 @@
+body{
+    background-color:rgb(206, 203, 203);
+}
+
+h1{
+    text-align: center;
+}
+
+.about{
+text-align: center;
+
+}
+.contact{
+    margin: 0;
+    padding: .3rem;
+    background-color: #eee;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+.img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px; 
+    border: 3px solid green; 
+    box-shadow: 0 0 7px #666; 
+}
+ 
+.lang{
+    color: rgb(145, 3, 3);
+}
+
+.logo{
+    width: 150px;
+    height: 150px; 
+}
